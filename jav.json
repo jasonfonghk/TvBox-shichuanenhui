@@ -60,19 +60,6 @@
       }
     },
     {
-      "key": "Miss_fix",
-      "name": "🔞资源┃MissAv (fix)",
-      "type": 3,
-      "api": "csp_Miss",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.778
-      }      
-    },
-    {
       "key": "Miss",
       "name": "🔞资源┃MissAv",
       "type": 3,
